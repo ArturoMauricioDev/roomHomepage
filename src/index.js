@@ -64,3 +64,6 @@ contact.addEventListener('click', toggleMenu)
 next.addEventListener('click',toggleSlideNext)
 prev.addEventListener('click',toggleSlidePrev)
 
+setInterval( () => {
+    toggleSlideNext()
+}, 5000);
