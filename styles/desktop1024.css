@@ -1,0 +1,89 @@
+.menu.toggle{
+    display: flex;
+}
+.topContainer{
+    display: flex;
+    position: absolute;
+    width: 50%;
+}
+header{
+    width: 25%;
+    position: relative;
+}
+.burger{
+    display: none;
+}
+.menu{
+    width: 70%;
+    position: relative;
+    background: transparent;
+    display: flex;
+}
+.menu figure{
+   display: none;
+}
+li:hover{
+    border-bottom: 1px solid var(--White);
+}
+li a{
+    color: var(--White);
+}
+
+.slide{
+    display: flex;
+}
+.slide__image{
+    width: 60vw;
+    height: 63vh;
+}
+.slide__image img{
+    height: 100%;
+    object-fit: cover;
+    object-position: 100% 0;
+}
+.description{
+    width: 40vw;
+}
+.description *{
+    margin: auto 10%;
+}
+.description h1{
+    margin-top: 10%;
+    margin-bottom: 8%;
+}
+.shopNow{
+    margin-top: 7%;
+}
+.shopNow:hover{
+    cursor: pointer;
+}
+.shopNow figure{
+    margin-left: -6%;
+}
+.bottom{
+    display: flex;
+}
+.bottom figure{
+    height: calc(100vh - 63vh);
+}
+.about{
+    width: 134%;
+}
+.about h3{
+    margin-top: 8%;
+}
+.about p{
+    margin-top: -5%;
+    margin-bottom: 3px;
+}
+.navigator{
+    top: calc(63vh - 55px);
+    right: calc(40vw - 10%);
+    width: 10%;
+}
+.darkImage{
+    background-size: cover;
+}
+.lightImage{
+    background-size: cover;
+}

@@ -1,0 +1,21 @@
+.description *{
+    margin: auto 13%;
+}
+.description h1{
+    margin-top: 15%;
+    margin-bottom: 8%;
+}
+.shopNow{
+    margin-top: 7%;
+}
+.about{
+    width: 134%;
+}
+.about h3{
+    margin-top: 12%;
+    margin-bottom: 5%;
+}
+.about p{
+    margin-top: 0;
+    margin-bottom: 3px;
+}
