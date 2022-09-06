@@ -17,7 +17,7 @@ Es un proyecto que tiene como objetivo aplicar una maquetación en `HTML`, `CSS`
 
 <!-- toc -->
 ## Descripción
-Este proyecto realizará la maquetación en `HTML`, `CSS` y `JavaScript` considerando los siguientes requerimientos:
+Este proyecto realizará la maquetación del siguiente reto en `HTML`, `CSS` y `JavaScript` considerando los siguientes requerimientos:
 
 ### Para mobile
 ![Design preview for the Room homepage coding challenge - mobile](./design/mobile-design.jpg)
