@@ -57,7 +57,7 @@ A continuación se mostrará algunos detalles y buenas prácticas:
 <link rel="stylesheet" href="./styles/desktop1440.css" media="screen and (min-width: 1440px)">
 ```
 
-*Optimización de carga de imagenes según el dispositivo.*
+*Optimización de carga de imágenes según el dispositivo.*
 
 ```
 <picture>
@@ -79,7 +79,7 @@ A continuación se mostrará algunos detalles y buenas prácticas:
 }
 ```
 
-*Uso de un toggle para el menu mobile*
+*Uso de un toggle para el menú mobile*
 ```
 .menu.toggle{
     display: none;
@@ -107,7 +107,7 @@ A continuación se mostrará algunos detalles y buenas prácticas:
 
 ### Manipulando el DOM con JavaScript
 
-*Uso de toggle para el menu*
+*Uso de toggle para el menú*
 ```
 let menu = document.getElementById('menu')
 let burger = document.getElementById('burger')
