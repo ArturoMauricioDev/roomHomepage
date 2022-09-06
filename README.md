@@ -57,7 +57,7 @@ A continuación se mostrará algunos detalles y buenas prácticas:
 <link rel="stylesheet" href="./styles/desktop1440.css" media="screen and (min-width: 1440px)">
 ```
 
-*Optimización de carga de imagenes segun el dispositivo.*
+*Optimización de carga de imagenes según el dispositivo.*
 
 ```
 <picture>
