@@ -1,6 +1,10 @@
 # Room home page
 Es un proyecto que tiene como objetivo aplicar una maquetación en `HTML`, `CSS` y `JavaScript`. El proyecto forma parte de la escuela de Desarrollo Web de Platzi utilizando el challenge de Frontend Mentor.
 
+## Demo
+
+El proyecto esta disponible en [https://arturomauriciodev.github.io/socialMedia/](https://arturomauriciodev.github.io/socialMedia/).
+
 ## Tabla de Contenidos
   - [Descripción](#descripción)
     * [Mobile](#para-mobile)
