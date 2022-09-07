@@ -3,7 +3,7 @@ Es un proyecto que tiene como objetivo aplicar una maquetación en `HTML`, `CSS`
 
 ## Demo
 
-El proyecto esta disponible en [https://arturomauriciodev.github.io/socialMedia/](https://arturomauriciodev.github.io/socialMedia/).
+El proyecto esta disponible en [https://room.js.org/](https://room.js.org/). Asimismo este es su [repositorio](https://github.com/ArturoMauricioDev/roomHomepage).
 
 ## Tabla de Contenidos
   - [Descripción](#descripción)
